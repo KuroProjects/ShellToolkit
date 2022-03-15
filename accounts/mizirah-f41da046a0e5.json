@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mizirah",
+  "private_key_id": "f41da046a0e5d148bd8ca1ab6acfe03872a9478c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDwvE7lJEVJ/JG0\nVJXQ4rkZt3q1WYDXOd6cpi2LHzSosZa1s54LNAm9zECYFnG2H+92wBtU7NrFAeFJ\nyypo9AS8e7ckFFqDKx79yZcYO5k19w1vQR8NFLrY9S2t0f4DdpPeBTsMeoI3B5Ff\n8UtBE2FT7fv3fuG3L+uVwJ5iXJoXZiJJtIsHn8MgSd6Ou1S9ZG7yxclqbTA2/DXN\nYEKO4Y1+63TnmJwU2/sTHygi4i6LD1rSJDZyQsjivr/7E8xiPD/LiT8J9FPCm1Mq\nDYlpzOTcTHeK6QX9Bk2hM83UJNeP2gPZ2lrpcAFPXSfm7t3Oc+6aeE3d+ckscDo2\nTp3SKptXAgMBAAECggEAIbadbeWodnYSiaiW2owF1B4n5yHDs2B9Vn7HPgZ+v2kv\na/7dkUAWZSgnm6T5A8JxLLY2nawV7yUWQdlb9RrHVwYUXc8j5d6yFmSW7mPaTv5s\nOTpreM+AY0Xiwcb4xc9jYeJlpJe7iK1cpI0MNu7Z4IEhmkWAosDpQy2YgLnrMn9r\noVDJVKMDZQQolmm0HH/6nyJSHiXeeKmAgX+PAeEDDJUYu0qPXwsmq4vobsj9gH5j\nah6VgIxV0WHKAMtJFagQSwcZ/zeHwPmAlsy5yjDOCxCOpUD9/OXv1MLmU5TpFS5I\nsCfO/Un0vtHr2fJDgt7jZufcOL4IMmUJp/i0yV4sgQKBgQD5cE80tzNDn4IDWEJ7\nJ38Cg2poicj2vdZZyFWGXZpRdx5AFJDyVBUQVsSTWEbTUfO/gicM8JK4z2ritgor\n12GE5UUtGBjc8QGUE1BdVWYbSrhrywEk2N6IeCWME0kth+xaHFPXpnPhoPpptOf7\nkYWaoiDm5zwSd/m/8P/yEJ9vNwKBgQD3EWSYC6+4A1TWZjdmGo1ARw2wo0cZ4j+n\n1RCF0TcH4d0DRqMsv6WQraqFxApOS5NvyRl0utET4HZNGn447BzIFxhchWxeNAbu\nVK4X+KjUurs3J/S7NckjMgRL8tz8CID/FHs2TYCAgNiZYXEAxuCnJvFlDOGAeC4R\nB+7drpsE4QKBgFiltFB8xyhCONdtd3sDJ11CTP/H7/bYsqQH0XVGMMDA/6wwYu7s\nOOwsmgHvfoQ9fM3TuIMdwFcTx924alb4XXz4aiRDixqCQFhaoNX6sqYCYRZV+Bsb\nQ8LmSBnHBNu8kZ/Yr2dVjZtjNXt5wnQiXIP/GIhXJ388yjKPuLZTeAXzAoGAdXhX\nk9M6oQs0cxv2ix1ku4MNB0carzvbeDjdukJXH/BL3Rrgyo30cm2f/inPnJpiZ2v+\nJnoMnp7CoLZP/VCF/ry8YIEvnTqvcPHiNJON8lc2XGsq+TgBgjJtyI6Yc1y3uJBM\nZO1Eg9S/J24lBHGKru7dJ2aQcTyy6nYTJGO4YQECgYBj5YZMPUyzQy5e69Mma8t0\nPOMClanWdNDgjkeOvD2eZZjd/qX7w0tpNYqCXHADuqJB2HQWQTGHNb84l6xtfZhE\n+GQZse0Rv7A1plRqtfZGUbbpBFZsqpl4w+9Fe/LzdO+rdBPIEpRhdKt2hhR2226Q\nau6/Vf+WZtXPjZZA/uCwvg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hotpizza001@mizirah.iam.gserviceaccount.com",
+  "client_id": "109137231300812073405",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hotpizza001%40mizirah.iam.gserviceaccount.com"
+}
